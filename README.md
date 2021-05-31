@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/0" alt="Recent Article 0"> 
 
 
