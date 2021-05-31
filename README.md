@@ -1,5 +1,4 @@
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
+![ViewCount](http://bit.ly/ahmetikrdg-Github-Visits)
 
 ### Hi there 👋 I'm Ahmet Karadağ,
 
