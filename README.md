@@ -26,7 +26,6 @@ I'm a software developer and also a podcaster.
 	<img title="EF Core" alt="EF Core" src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" width="40" height="40" />	
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Bootstrap" alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60" height="43" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
 
 <!--
