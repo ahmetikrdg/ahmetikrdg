@@ -11,13 +11,11 @@ I'm a software developer but also a podcaster.
 	- [ ] A.Net Core Microservices
 - 💬 Talk to me about : software, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **AWS**.
-- Podcast channel: <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+- Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
 ### My skills include
 
 <p align="center">
-	<img align="left" src="icons/c-sharp-solid.svg" width="70" height="40"/>
-	<img align="left" src="icons/dot-net.svg" width="70" height="40"/>
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
