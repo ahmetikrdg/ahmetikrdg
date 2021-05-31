@@ -19,7 +19,7 @@ I'm a software developer and also a podcaster.
 	<img title="C#" alt="C#" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" width="70" height="40" />
 	<img title=".NET Core" alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="40" height="40" />
 	<img title="Angular" alt="Angular" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="40" height="40" />
-	<img title="Docker" alt="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="40" height="40" />
+	<img title="Docker" alt="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="45" height="40" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="50" height="40" />
 	<img title="JavaScript" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" height="40" />
 	<img title="TypeScript" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40" />
