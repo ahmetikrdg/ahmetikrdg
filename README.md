@@ -11,6 +11,7 @@ I'm a software developer but also a podcaster.
 	- [ ] A.Net Core Microservices
 - 💬 Talk to me about : software, Memes, anything that interests you.
 - 🌱 I’m currently pursuing **AWS**.
+- Podcast channel: <a href="https://open.spotify.com/user/2145isvugpczeo2fgz6khel3y"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
 ### My skills include
 
