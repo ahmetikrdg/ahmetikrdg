@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/1" alt="Recent Article on medium 2"></img></a>   
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/2" alt="Recent Article on medium 3"></img></a>  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/2" alt="Recent Article on medium 3"></img></a>  
     
 </details>    
 
@@ -66,10 +66,9 @@ Here are some ideas to get you started:
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>
-<a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/ahmetkaradag/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:ahmetikrdg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@ahmetkaradag"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/ahmetikrdg"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>       
