@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Ahmet Karadağ,
 
-I'm a software developer but also a podcaster.
+I'm a software developer and also a podcaster.
 
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
