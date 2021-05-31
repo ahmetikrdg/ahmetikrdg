@@ -26,7 +26,7 @@ I'm a software developer and also a podcaster.
 	<img title="EF Core" alt="EF Core" src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" width="40" height="40" />	
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Bootstrap" alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="60" height="43" />
-        <img title="MSSQL" alt="MSSQL" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="43" />
+        <img title="MSSQL" alt="MSSQL" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-8.png" width="60" height="43" />
 </p>
 <!--
 **Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
