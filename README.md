@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ahmetikrdg/ahmetikrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Ahmet Karadağ's github stats](https://github-readme-stats.vercel.app/api?username=ahmetikrdg&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ahmetikrdg/github-readme-stats)
 <br>
