@@ -1,9 +1,9 @@
 ![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
 ![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
-### Hi there 👋 I'm Thomas George Thomas,
+### Hi there 👋 I'm Ahmet Karadağ,
 
-A Data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+I'm a software developer but also a podcaster.
 
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
