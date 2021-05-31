@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=ahmetikrdg&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ahmetikrdg/github-readme-stats)
-
-
-  <a target="_blank" href="https://ahmetkaradag.medium.com/aws-rds-db-olu%C5%9Fturma-ve-asp-net-core-ba%C4%9Flant%C4%B1s%C4%B1-8a7a1f17014e"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetikrdg/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/0" alt="Recent Article 0"> 
 
 
