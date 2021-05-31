@@ -16,7 +16,7 @@ I'm a software developer and also a podcaster.
 ### My skills include
 
 <p align="center">
-	<img title="C#" alt="C#" src="https://cdn.auth0.com/blog/illustrations/csharp.png" width="70" height="40" />
+	<img title="C#" alt="C#" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" width="70" height="40" />
 	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
 	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
