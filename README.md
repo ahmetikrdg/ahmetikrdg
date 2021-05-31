@@ -1,9 +1,8 @@
 ### Hi, I'm Ahmet Karadağ! 👋
-#I am a software developer and podcaster
+# I am a software developer and podcaster
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Amazon Web Services
 - 🌱 I’m currently learning .Net Core Microservices
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
   - :speaker: [Podcast](https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0)
 
 [![Ahmet Karadağ's github stats](https://github-readme-stats.vercel.app/api?username=ahmetikrdg&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ahmetikrdg/github-readme-stats)
-<br>
+
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ahmetkaradag/0" alt="Recent Article 0"> 
 
