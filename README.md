@@ -25,7 +25,7 @@ I'm a software developer and also a podcaster.
 	<img title="TypeScript" alt="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40" height="40" />
 	<img title="EF Core" alt="EF Core" src="https://www.gencayyildiz.com/blog/wp-content/uploads/2019/08/ef-core.png" width="40" height="40" />	
 	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+	<img title="Bootstrap" alt="Bootstrap" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" width="105" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 </p>
 
