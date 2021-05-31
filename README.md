@@ -1,4 +1,4 @@
-![ViewCount](http://bit.ly/ahmetikrdg-Github-Visits)
+![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
 ### Hi there 👋 I'm Ahmet Karadağ,
 
