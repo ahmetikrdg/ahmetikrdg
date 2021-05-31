@@ -1,5 +1,5 @@
-### Hi, I'm Ahmet Karadağ! 👋
-# I am a software developer and podcaster
+## Hi, I'm Ahmet Karadağ! 👋
+### I am a software developer and podcaster
 
 
 
