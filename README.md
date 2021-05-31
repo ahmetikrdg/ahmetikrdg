@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Ahmet Karadağ! 👋
+#I am a software developer and podcaster
 
 
-**ahmetikrdg/ahmetikrdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
