@@ -9,7 +9,7 @@ I'm a software developer and also a podcaster.
 - 🔭 I’m currently working on:
 	- [x] Amazon Web Service
 	- [ ] A.Net Core Microservices
-- 💬 Talk to me about : software, Memes, anything that interests you.
+- 💬 Talk to me about : software, anything that interests you.
 - 🌱 I’m currently pursuing **AWS**.
 - Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
