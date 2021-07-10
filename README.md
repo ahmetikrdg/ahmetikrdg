@@ -11,7 +11,7 @@ I'm a software developer and also a podcaster.
 	- [x] .Net Core Microservices
 	- [x] Java Spring Boot
 - 💬 Talk to me about : software, anything that interests you.
-- 🌱 I’m currently pursuing **AWS**.
+- 🌱 I’m currently pursuing **Java Spring Boot**.
 - Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
 
 ### My skills include
