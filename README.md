@@ -17,6 +17,7 @@ I'm a software developer and also a podcaster.
 
 <p align="center">
 	<img title="C#" alt="C#" src="https://iconape.com/wp-content/files/sh/51404/svg/c--4.svg" width="40" height="40" />
+	<img title="Java" alt="Java" src="https://img1.pngindir.com/20180810/cxt/kisspng-oracle-certified-professional-java-se-programmer-c-grails-development-groovy-development-grails-d-5b6dde2478a285.7026776415339269484941.jpg" width="40" height="40" />
 	<img title=".NET Core" alt=".Net Core" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="40" height="40" />
 	<img title="Angular" alt="Angular" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="40" height="40" />
 	<img title="Docker" alt="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="45" height="40" />
