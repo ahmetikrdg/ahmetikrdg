@@ -4,7 +4,7 @@
 
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
-	- [x] Amazon Web Service
+	- [x] Go
 	- [x] .Net Core Microservices
 	- [x] Java Spring Boot
 - 💬 Talk to me about : software, anything that interests you.
