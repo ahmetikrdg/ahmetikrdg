@@ -10,9 +10,10 @@
 - 🌱 I’m currently pursuing **Golang**.
 
 ### My Podcast and Youtube Channel
-- <img title="C#" href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0" alt="C#" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" width="40" height="40" />
-- <img title="C#" href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw" alt="C#" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="40" height="40" />
-	
+<p>
+ <img title="C#" href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0" alt="C#" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" width="40" height="40" />
+ <img title="C#" href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw" alt="C#" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="40" height="40" />
+</p>	
 
 ### My skills include
 
