@@ -13,7 +13,7 @@
 <p>
  <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0" target="_blank"><img title="Spotify Channel" alt="Spotify" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" width="40" height="40" />
 </a>
-<a href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw"  target="_blank"> <img title="Youtube Channel"  alt="Youtube" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="42" height="42" />
+<a target="_blank" href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw" > <img title="Youtube Channel"  alt="Youtube" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="42" height="42" />
 </a>
 </p>	
 
