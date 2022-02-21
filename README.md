@@ -9,9 +9,7 @@
 - 💬 Talk to me about : software, anything that interests you.
 - 🌱 I’m currently pursuing **Golang**.
 - Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="32" width="32"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-- Youtube channel: <a href="https://www.youtube.com/channel/[YOUR CHANNEL ID]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[YOUR CHANNEL ID]&key=[YOUR API KEY]"/>
-</a>
+- Youtube channel: [![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
 
 ### My skills include
 
