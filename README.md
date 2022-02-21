@@ -5,8 +5,7 @@
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
 	- [x] Go
-	- [x] .Net Core Microservices
-	- [x] Java Spring Boot
+	- [x] Microservices
 - 💬 Talk to me about : software, anything that interests you.
 - 🌱 I’m currently pursuing **Java Spring Boot**.
 - Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="32" width="32"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
