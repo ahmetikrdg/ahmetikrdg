@@ -8,8 +8,12 @@
 	- [x] Microservices
 - 💬 Talk to me about : software, anything that interests you.
 - 🌱 I’m currently pursuing **Golang**.
-- Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="42" width="42"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
-- Youtube channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="42" width="42"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+
+### My Podcast and Youtube Channel
+<p align="center">
+	- Podcast channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Spotify" title="Spotify" height="32" width="32"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg"></a>
+- Youtube channel: <a href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0"><img alt="Youtube" title="Youtube" height="32" width="32"  src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+</p>
 
 ### My skills include
 
