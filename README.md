@@ -11,8 +11,8 @@
 
 ### My Podcast and Youtube Channel
 <p>
- <img title="C#" href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0" alt="C#" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" width="40" height="40" />
- <img title="C#" href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw" alt="C#" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="42" height="42" />
+ <img title="Spotify Channel" href="https://open.spotify.com/show/6PV7aw2JcTWGlOjLPYPjn0" alt="Spotify" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" width="40" height="40" />
+ <img title="Youtube Channel" href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw" alt="Youtube" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="42" height="42" />
 </p>	
 
 ### My skills include
