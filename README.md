@@ -11,7 +11,7 @@
 
 ### My Podcast and Youtube Channel
 <p>
- <a href="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/Spotify-512.png" target="_blank"><img title="Spotify Channel" alt="Spotify" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" width="40" height="40" />
+ <a href="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/Spotify-512.png" target="_blank"><img title="Spotify Channel" alt="Spotify" src="https://brandlogos.net/wp-content/uploads/2021/12/spotify-brandlogo.net_.png" width="40" height="40" />
 </a>
 <a target="_blank" href="https://www.youtube.com/channel/UCHne5PMX5mGYTkFMJMS0ZBw" > <img title="Youtube Channel"  alt="Youtube" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" width="42" height="42" />
 </a>
