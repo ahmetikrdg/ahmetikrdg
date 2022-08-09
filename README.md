@@ -5,7 +5,6 @@
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently working on:
 	- [x] Go
-	- [x] Microservices
 - 💬 Talk to me about : software, anything that interests you.
 - 🌱 I’m currently pursuing **Golang**.
 
